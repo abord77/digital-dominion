@@ -12,7 +12,6 @@ Digital Dominion is a two-player strategy game where players assume the roles of
 - [How to Play](#how-to-play)
 - [Commands](#commands)
 - [Command Line Arguments](#command-line-arguments)
-- [License](#license)
 
 ## Technical Details
 
